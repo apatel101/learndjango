@@ -1,0 +1,4 @@
+adium-theme-ubuntu==0.3.4
+Django==1.7
+Pillow==3.2.0
+unity-lens-photos==1.0
